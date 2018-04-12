@@ -1,3 +1,4 @@
+# 简历模板
 # 一个简洁优雅的 XeLaTeX 简历模板
 
 Hit branch [master](https://github.com/billryan/resume/tree/master) if you wanna an English résumé.
@@ -32,7 +33,7 @@ Hit branch [master](https://github.com/billryan/resume/tree/master) if you wanna
 
 ![English](http://7xojrx.com1.z0.glb.clouddn.com/docs/resume.png)
 ![English with photo](http://7xojrx.com1.z0.glb.clouddn.com/docs/resume_photo.png)
-![简体中文](http://7xojrx.com1.z0.glb.clouddn.com/docs/resume-zh_CN.png)
+![简体中文](resume-zh_CN.png)
 
 - 英文 PDF - http://7xojrx.com1.z0.glb.clouddn.com/docs/resume.pdf
 - 加入照片的英文 PDF - http://7xojrx.com1.z0.glb.clouddn.com/docs/resume_photo.pdf
